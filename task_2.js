@@ -2,4 +2,4 @@ var admin;
 var name;
 name = "Василий";
 admin = name;
-document.write(admin);
+console.log(admin);
